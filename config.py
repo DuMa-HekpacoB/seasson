@@ -1,0 +1,5 @@
+proxy_login = "XvXXpg"
+proxy_password = "x42jpN"
+proxy_ip = "45.155.200.159:8000"
+seasson_login = "jacklikebuds@gmail.com"
+seasson_password = "1312097GenajackQQQ"
